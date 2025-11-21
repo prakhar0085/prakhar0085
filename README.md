@@ -5,7 +5,7 @@ I'm a passionate about building full-stack web applications that solve real-worl
 - 🔭 I’m currently building: **AI-powered platforms** and **scalable SaaS products**.
 - 🌱 I’m currently learning: Advanced backend architectures and cloud technologies.
 - 💡 I'm passionate about: Clean code, efficient state management, and creating seamless user experiences.
-- 📫 How to reach me: **prakhartiwari942@gmail.com** | [LinkedIn](linkedin.com/in/prakhartiwari)
+- 📫 How to reach me: **prakhartiwari942@gmail.com**
 
 **Let's build something amazing together!**
 ## 🌐 Socials:
