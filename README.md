@@ -1,4 +1,10 @@
-### 👋 Hi there, I'm Prakhar!
+# <div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Prakhar+Tiwari" alt="Prakhar Tiwari"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Generative+AI+%7C+Cloud+Architect;Building+Tomorrow's+Solutions+Today" alt="Typing Animation"/>
+
+</div>
 
 I'm a passionate about building full-stack web applications that solve real-world problems. I enjoy the entire process, from designing intuitive user interfaces with **React & Next.js** to crafting robust backend systems with **Node.js and MongoDB**.
 
