@@ -58,6 +58,37 @@ I’m a **Full Stack Developer** focused on building scalable web products and A
 
 </p>
 
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=24&center=true&vCenter=true&width=500&lines=LeetCode+Grind+💻;Solving+DSA+Daily+🚀;Consistency+is+Key" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/prakhar0085/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mVtaiG2ZYZ?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+
+
+
+
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com/?user=prakhar0085)
+
+
+## 📈 Contribution Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakhar0085&theme=react-dark)
+
+
+
+
+
 
 
 
