@@ -43,22 +43,20 @@ I’m a **Full Stack Developer** focused on building scalable web products and A
 
 </div>
 
-### 🤖 **GenAI / LLM Stack**
+### 🤖 GenAI / LLM Stack
 <p align="center">
-  <!-- Platforms / Models -->
+
+  <!-- Core Concepts -->
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00D9FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-Vector%20Representations-FF6F61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-LLM%20Optimization-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-Autonomous%20Workflows-00C896?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000"/>
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-2F80ED?style=for-the-badge"/>
-
-  <!-- Concepts -->
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00D9FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vector%20DB-Pinecone%20%7C%20FAISS%20%7C%20Chroma-39FF14?style=for-the-badge"/>
+
 </p>
-
-
 
 
 
